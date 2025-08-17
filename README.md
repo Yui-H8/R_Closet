@@ -1,7 +1,7 @@
 # R_Closet
 R language
 ---
-1. Karate(igraph package)   
+1. Karate(igraph package) / <PLOT> 01_Karate_plot.png   
 *Network analysis using “dyads” and “triads”*
 Sociology dataset: Zachary's Karate Club 
 * Field: Social relations (real world)
