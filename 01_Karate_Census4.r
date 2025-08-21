@@ -1,3 +1,9 @@
+# [Notes for next time]
+# Dyads and triads
+# Undirected and directed
+# Appropriate settings for “from” and “to” (Understanding of background)
+# Explosion of data volume
+
 library(igraph)           
 # Load igraph package for network analysis
 # Zachary's Karate Club network
@@ -94,3 +100,4 @@ plot(
 # --------------------------------------------
 
 dev.off()
+
